@@ -9,7 +9,7 @@ I'm passionate about technology and its potential to transform the world. My aca
 ## What I Do
 
 - 🎓 Currently in my second year, I'm deeply engaged in my studies, with a focus on Cybersecurity.
-- 💼 I proudly serve as the Vice Chairperson of the Creative Committee at IEEE Silver Oak University Student Branch. Here, I lead initiatives that bridge technology and creativity.
+- 💼 I proudly serve as the Vice Chairperson of the IEEE Silver Oak University Computer Society Student Branch Chapter. Here, I lead initiatives that bridge technology and creativity.
 - 💻 I'm a tech enthusiast, with a strong interest in open source, collaborative coding, and community-driven projects.
 - 🌐 My mission is to make technology accessible and impactful for all, fostering a more inclusive tech ecosystem.
 
